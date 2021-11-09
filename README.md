@@ -2,4 +2,4 @@
 
 # deepCompare // 深比较
 
-// 使用 import { objectMix, deepCompare } from '文件路径'
+// 使用 import { objectMix, deepCompare } from './tools.js'
